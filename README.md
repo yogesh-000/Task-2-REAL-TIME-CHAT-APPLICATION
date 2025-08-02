@@ -1,16 +1,16 @@
 # Task-2-REAL-TIME-CHAT-APPLICATION
 
-*COMPANY*:
+*COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*:
+*NAME*: Yogeshwaran . C
 
-*INTERN ID*:
+*INTERN ID*: CT04DH2475
 
-*DOMAIN*:
+*DOMAIN*: Frontend Web Development.
 
-*DURATION*:
+*DURATION*: 4 WEEKS
 
-*MENTOR*:
+*MENTOR*: Neela Santhosh Kumar
 
 ## Real-Time Chat Application – Project Description
 This project involves the development of a Real-Time Chat Application built using modern web development technologies. The objective of this task was to implement a fully responsive and interactive chat interface that allows multiple users to communicate with each other instantly, leveraging WebSockets for real-time data exchange. The front-end of the application is developed using React.js (or Vue.js), and it is connected to a backend server that manages the WebSocket communication channel.
