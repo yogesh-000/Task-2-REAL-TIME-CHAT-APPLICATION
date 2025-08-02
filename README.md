@@ -96,13 +96,7 @@ The final result is a functional, real-time chat system that is both responsive 
 
 ##OUTPUT
 
-
-
-
-
-
-
-
+<img width="1909" height="967" alt="Image" src="https://github.com/user-attachments/assets/9d208394-a13d-4f4c-b359-970b55309ec9" />
 
 
 
